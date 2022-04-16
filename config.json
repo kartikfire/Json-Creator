@@ -1,5 +1,5 @@
 {
-    "mod_id": "modid",
-    "item_name": "itemname",
-    "texture_id": "textureid"
+    "mod_id": "flufam",
+    "item_name": "raw_mythril",
+    "texture_id": "raw_mythril_block"
 }
