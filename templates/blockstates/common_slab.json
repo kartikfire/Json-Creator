@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "MODID:block/common_slab"
+        },
+        "type=double": {
+            "model": "MODID:block/TEXTUREID"
+        },
+        "type=top": {
+            "model": "MODID:block/common_slab_top"
+        }
+    }
+}

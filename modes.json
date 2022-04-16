@@ -1,0 +1,29 @@
+{
+    "*": ["*"],
+    "all": ["*"],
+    "item": ["models/item/common_item"],
+    "block": [
+        "blockstates/common_block",
+
+        "models/block/common_block",
+
+        "models/item/common_block"
+    ],
+    "stairs": [
+        "blockstates/common_stairs",
+
+        "models/block/common_stairs",
+        "models/block/common_stairs_inner",
+        "models/block/common_stairs_outer",
+
+        "models/item/common_block"
+    ],
+    "slab": [
+        "blockstates/common_slab",
+
+        "models/block/common_slab",
+        "models/block/common_slab_top",
+
+        "models/item/common_block"
+    ]
+}
