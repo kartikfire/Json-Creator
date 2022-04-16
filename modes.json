@@ -16,7 +16,7 @@
         "models/block/common_stairs_inner",
         "models/block/common_stairs_outer",
 
-        "models/item/common_block"
+        "models/item/common_stairs"
     ],
     "slab": [
         "blockstates/common_slab",
@@ -24,6 +24,6 @@
         "models/block/common_slab",
         "models/block/common_slab_top",
 
-        "models/item/common_block"
+        "models/item/common_slab"
     ]
 }
