@@ -38,7 +38,8 @@ def make_dir(dirs):
 def make_new_json(got_json, mod_id, texture_id, item_name):
     """Returns new json"""
     return got_json.replace(
-        'MODID', mod_id).replace('TEXTUREID', texture_id).replace('common', item_name)
+        'MODID', mod_id).replace('TEXTUREID', texture_id).replace(
+            'common', item_name)
 
 
 def main():
